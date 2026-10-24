@@ -5,3 +5,14 @@ carrera: ingenieria en sistemas
 semestre: tercer semestre
 materia: estructura de datos
 docente: myrna villegas gaytan
+
+### Lenguaje
+C#
+### IDE
+Visual Studio
+### Conceptos utilizados
+- Variables
+- Métodos
+- recursividad
+- Condicionales
+- Entrada y salida de datos
